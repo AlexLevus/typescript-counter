@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.597a790a.css",
-    "main.js": "/static/js/main.8f43c618.js",
-    "static/js/787.a4b2e6a8.chunk.js": "/static/js/787.a4b2e6a8.chunk.js",
-    "index.html": "/index.html",
-    "main.597a790a.css.map": "/static/css/main.597a790a.css.map",
-    "main.8f43c618.js.map": "/static/js/main.8f43c618.js.map",
-    "787.a4b2e6a8.chunk.js.map": "/static/js/787.a4b2e6a8.chunk.js.map"
+    "main.css": "https://alexlevus.github.io/typescript-counter/static/css/main.597a790a.css",
+    "main.js": "https://alexlevus.github.io/typescript-counter/static/js/main.8e1afcf0.js",
+    "static/js/787.a4b2e6a8.chunk.js": "https://alexlevus.github.io/typescript-counter/static/js/787.a4b2e6a8.chunk.js",
+    "index.html": "https://alexlevus.github.io/typescript-counter/index.html",
+    "main.597a790a.css.map": "https://alexlevus.github.io/typescript-counter/static/css/main.597a790a.css.map",
+    "main.8e1afcf0.js.map": "https://alexlevus.github.io/typescript-counter/static/js/main.8e1afcf0.js.map",
+    "787.a4b2e6a8.chunk.js.map": "https://alexlevus.github.io/typescript-counter/static/js/787.a4b2e6a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.597a790a.css",
-    "static/js/main.8f43c618.js"
+    "static/js/main.8e1afcf0.js"
   ]
 }
